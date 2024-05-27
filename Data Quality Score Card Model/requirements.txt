@@ -1,0 +1,14 @@
+
+
+# For running MapReduce jobs
+hadoop-streaming==3.2.3
+
+# For scientific computing and statistical analysis
+scipy==1.7.3
+numpy==1.21.3
+
+# For multithreading
+futures==3.3.0
+
+# Optional: If you are using any additional libraries in your code, add them here
+# Example: pandas, matplotlib, seaborn, etc.
